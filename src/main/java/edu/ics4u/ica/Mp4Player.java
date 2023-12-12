@@ -3,7 +3,8 @@ public class Mp4Player implements AdvancedMediaPlayer {
     
    @Override
    public void playVlc(String fileName) {
-      //ne fait rien
+      // informs the user that that file cannot be used
+      System.out.println("Cannnot play vlc files. Unsupported format for MP4 player: "+fileName);
    }
 
    @Override

@@ -3,9 +3,10 @@
 ## Catégorie
 Patrons structurels
 ## Utilité
-
+L'adaptateur est un modèle de conception structurelle qui permet aux objets dotés d'interfaces incompatibles de collaborer.
 # Concepts OOP
 ## Utilisation de l'héritage dans le patron
+//
 ## Utilisation d'interfaces dans le patron
 ## Utilisation du polymorphisme dans le patron
 ## Utilisation de composition dans le patron
