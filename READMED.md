@@ -1,4 +1,4 @@
-# Titre  / Ica Ishimwe / dec 2023
+# Patrons de conception / Ica Ishimwe / dec 2023
 # Adaptateur
 ## Catégorie
 Patrons structurels
