@@ -1,11 +1,9 @@
 package edu.ics4u.ica;
 
-import main.java.edu.ics4u.ica.AudioPlayer;// Pourquoi?
 
-
-public class DemoAdpter extends AudioPlayer {
+public class DemoAdapter extends AudioPlayer {
     public static void main(String[] args) {
-     AudioPlayer audioPlayer = new AudioPlayer(); // cette partie ne marche pas
+     AudioPlayer audioPlayer = new AudioPlayer(); 
 
         audioPlayer.play("mp3", "beyond the horizon.mp3");
         audioPlayer.play("mp4", "alone.mp4");

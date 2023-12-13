@@ -1,4 +1,6 @@
-package main.java.edu.ics4u.ica;
+package edu.ics4u.ica;
+
+
 
 public class AudioPlayer implements MediaPlayer {
        MediaAdapter mediaAdapter; 
@@ -6,7 +8,7 @@ public class AudioPlayer implements MediaPlayer {
    @Override
    public void play(String audioType, String fileName) {		
 
-      //inbuilt support to play mp3 music files
+      //support intégré pour lire des fichiers de musique mp3
       if(audioType.equalsIgnoreCase("mp3")){
          System.out.println("Playing mp3 file. Name: " + fileName);			
       } 

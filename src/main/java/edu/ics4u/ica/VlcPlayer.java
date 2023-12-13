@@ -1,4 +1,4 @@
-package main.java.edu.ics4u.ica;
+package edu.ics4u.ica;
 
 public class VlcPlayer implements AdvanceMediaPlayer {
   @Override

@@ -16,7 +16,8 @@ Le code définit des interfaces (MediaPlayer et AdvancedMediaPlayer) pour spéci
 ## Utilisation du polymorphisme dans le patron
 La classe AudioPlayer utilise un adaptateur (MediaAdapter) qui implémente l'interface MediaPlayer. Cet adaptateur fonctionne sur différents types de lecteurs multimédias (VlcPlayer et Mp4Player) via l'interface AdvancedMediaPlayer. Cette utilisation permet de traiter différentes classes de manière uniforme (via leur interface commune) et permet de basculer entre différentes implémentations pendant l'exécution.
 ## Utilisation de composition dans le patron
-Aucune
+l'utilisation de l'instance MediaAdapter au sein de la classe AudioPlayer peut être considérée comme une forme d'incorporation d'un objet dans un autre pour fournir une fonctionnalité ou un comportement supplémentaire, qui partage certaines caractéristiques avec la composition.
+
 # Sources
 > tutoriel de l'implementation: https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
 

@@ -1,4 +1,4 @@
-package main.java.edu.ics4u.ica;
+package edu.ics4u.ica;
 
 public interface AdvanceMediaPlayer {
     
