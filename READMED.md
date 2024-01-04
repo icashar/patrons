@@ -21,7 +21,7 @@ l'utilisation de l'instance MediaAdapter au sein de la classe AudioPlayer peut �
 # Sources
 > tutoriel de l'implementation: https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
 
->>Travail consulté: https://refactoring.guru/design-patterns/adapter
+>Travail consulté: https://refactoring.guru/design-patterns/adapter
 
 # Diagramme UML
 Sur classroom
