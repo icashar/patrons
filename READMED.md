@@ -24,4 +24,4 @@ l'utilisation de l'instance MediaAdapter au sein de la classe AudioPlayer peut √
 >Travail consult√©: https://refactoring.guru/design-patterns/adapter
 
 # Diagramme UML
-Sur classroom
+Dans le fichier: Programme - patron de conception (13 Dec 2023 at 13_46).jpg
