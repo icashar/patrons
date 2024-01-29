@@ -25,3 +25,17 @@ l'utilisation de l'instance MediaAdapter au sein de la classe AudioPlayer peut �
 
 # Diagramme UML
 Dans le fichier: Programme - patron de conception (13 Dec 2023 at 13_46).jpg
+
+### Évaluation
+
+4+ 4
+
+o CO - Les identifiants (variables et méthodes), les commentaires, les javadoc et l'indentation rendent le code facile à lire (un peu de commentaires en anglais du code original)
+
+o CO - Les informations dans le README sont bien structurées et faciles à lire. (super clair et bien structuré)
+
+x MA - Le diagramme de classe UML est cohérent avec votre implémentation du patron. (confusion entre composition et utilisation)
+
+o MA - Votre analyse démontre votre capacité à reconnaître les concepts de l'OOP dans un contexte concret.
+
+x MA - Le travail correspond entièrement aux spécifications du projet. (le point de démarrage du projet ne s'appelle pas App)
